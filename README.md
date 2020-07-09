@@ -1,4 +1,4 @@
-# Igor Kamyshev 👨‍💻
+# Who I am 👨‍💻
 
 Hi, I am Igor — a senior software engineer at [Aviasales](https://www.aviasales.com) working on web platofrm to support product teams sustainability. Former technical leader at [Samokat](https://samokat.ru) (the largest true-online grocery store in Russia).
 
