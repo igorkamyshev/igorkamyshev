@@ -6,5 +6,5 @@ Hi, I am Igor — a software engineer at [Aviasales](https://www.aviasales.com) 
 
 + Personal site: https://kamyshev.me
 + Telegram: https://t.me/igorkamyshev
-+ Tech thoughts: https://twitter.com/kamyshev_code
-+ Amateurish photos: https://instagram.com/kamyshev_trip/
++ Tech thoughts: https://twitter.com/kamyshev_dev
++ Amateurish photos: https://instagram.com/kamyshev_trip
