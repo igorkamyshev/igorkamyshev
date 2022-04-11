@@ -1,9 +1,13 @@
 # Who I am 👨‍💻
 
-Hi, I am Igor — a software engineer at [Aviasales](https://www.aviasales.com) working on web platform to support product teams sustainability. Former technical leader at [Samokat](https://samokat.ru) (the largest true-online grocery store in Russia).
+Hi, I am Igor — a software engineer at [Aviasales](https://www.aviasales.com) working on web platform to support product teams sustainability.
+
+## My areas of interest
+
+- [Effector](https://effector.dev) — business logic with ease
+- [Deno](https://deno.land) — a modern runtime for JavaScript and TypeScript
 
 ## Get in touch
 
-+ Personal site: https://kamyshev.me
-+ Telegram: https://t.me/igorkamyshev
-+ Tech thoughts: https://twitter.com/kamyshev_dev
+- Email: igor@kamyshev.me
+- Telegram: https://t.me/igorkamyshev
