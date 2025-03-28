@@ -1,10 +1,14 @@
 # Who I am 👨‍💻
 
-Hi, I am Igor — a software engineer at [Aviasales](https://www.aviasales.com) working on web platform to support product teams sustainability.
+Hi, I am Igor — a software engineer, [Effector](https://effector.dev) contributor, and maintainer of [Farfetched](https://ff.effector.dev/).
 
-## My areas of interest
+## My Projects
 
-- [Effector](https://effector.dev) — business logic with ease
+- https://ratio.kamyshev.me/
+- https://soiree.kamyshev.me/
+- https://movie-map.kamyshev.me/
+- https://qr.kamyshev.me/
+- https://run.kamyshev.me/
 
 ## Get in touch
 
