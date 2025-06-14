@@ -9,6 +9,7 @@ Hi, I am Igor — a software engineer, [Effector](https://effector.dev) contribu
 - https://movie-map.kamyshev.me/
 - https://qr.kamyshev.me/
 - https://run.kamyshev.me/
+- https://venice-3.kamyshev.me/
 
 ## Get in touch
 
