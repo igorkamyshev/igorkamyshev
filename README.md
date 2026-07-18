@@ -4,6 +4,7 @@ Hi, I am Igor — a software engineer, [Effector](https://effector.dev) contribu
 
 ## My Projects
 
+- https://numon.kamyshev.me/en
 - https://ratio.kamyshev.me/
 - https://soiree.kamyshev.me/
 - https://movie-map.kamyshev.me/
